@@ -4,12 +4,12 @@ Domain7's React coding standard. Extends `eslint-config-airbnb` and applies some
 ## Installation
 First, run
 ```
-npm i eslint eslint-config-domain7
+npm i eslint @domain7/eslint-config-domain7
 ```
 
 Then add this to your `.eslintrc`:
 ```js
 {
-  "extends": ["domain7"]
+  "extends": "@domain7/eslint-config-domain7"
 }
 ```
