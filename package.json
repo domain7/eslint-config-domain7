@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-domain7",
+  "name": "@domain7/eslint-config-domain7",
   "version": "1.0.0",
   "description": "An eslint standard for Domain7",
   "main": "index.js",
